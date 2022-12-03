@@ -28,3 +28,4 @@ Even if I want to learn myself, I still very much appreciate if you want to make
 * Initial project setup
 * Added really pointless, silly snow animation without solving any task
 * Solve 1a
+* Solve 1b
