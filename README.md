@@ -26,3 +26,4 @@ Even if I want to learn myself, I still very much appreciate if you want to make
 ### 2023-12-02
 
 * Initial project setup
+* Added really pointless, silly snow animation without solving any task
